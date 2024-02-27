@@ -4,6 +4,12 @@
 [![codecov](https://codecov.io/gh/alefnula/tea/branch/master/graph/badge.svg)](https://codecov.io/gh/alefnula/tea)
 [![docs](https://readthedocs.org/projects/tea-lib/badge/)](https://tea-lib.readthedocs.org)
 
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xdf676928024C50057d8D8bb3b5eD61F776Fad3b5'
+quorum: 1
 
 `tea` is a set of libraries developed for common tasks like executing and
 manipulating processes, sending emails, file system manipulation, and a great
